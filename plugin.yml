@@ -1,7 +1,7 @@
 name: NuclearFactions-Crates
 version: 1.0.0
 api: [3.0.0-ALPHA6, 3.0.0]
-main: ItzCreeperBoy27\NuclearFactions\Main
+main: ItzCreeperBoy\NuclearFactions\Main
 author: ItzCreeperBoy27
 commands:
     cratekey:
