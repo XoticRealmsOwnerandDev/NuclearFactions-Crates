@@ -1,6 +1,6 @@
 <?php
 
-namespace ItzCreeperBoy27\NuclearFactions;
+namespace ItzCreeperBoy\NuclearFactions;
 
 use pocketmine\utils\Config;
 use pocketmine\command\Command;
