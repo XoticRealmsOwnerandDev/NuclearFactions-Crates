@@ -14,8 +14,8 @@ use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerInteractEvent;
 use pocketmine\inventory\PlayerInventory;
 use pocketmine\plugin\PluginBase;
-class Main extends PluginBase implements Listener{
 
+class Main extends PluginBase implements Listener{
 	public function onEnable(){
 		$this->saveDefaultConfig();
 		$this->getServer()->getPluginManager()->registerEvents($this, $this);
